@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  background-color: #140f17;
+  /* background-color: whitesmoke; */
+  font-family: "Poppins", sans-serif;
+  color: white;
+  scroll-behavior: smooth;
+}
+
+.holder {
+  background-color: #262e35;
+  /* background-color: whitesmoke; */
+
+  /* border: 1px solid whitesmoke; */
+}
+
+.card-img-top {
+  height: 350px;
+}
+
+.card {
+  background-color: #262e35;
+}
+
+.imgholder {
+  overflow: hidden;
+}
+
+.cardholder :hover img {
+  transition: 0.5s;
+  transform: scale(1.2, 1.2);
+}
+
+/* responsive card */
+
+.rcardholder {
+  display: none;
+}
+
+.rcardholder :hover img {
+  transition: 0.5s;
+  transform: scale(1.2, 1.2);
+}
+
+/* detail page */
+
+.detailimg {
+  height: 500px;
+}
+
+/* home page */
+
+.homeimg {
+  height: 350px;
+}
+
+/* navbar */
+
+.navbtn {
+  width: 19%;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+#footer {
+  background-color: #262e35;
+  height: 60px;
+  bottom: 0px;
+  left: 0px;
+  line-height: 50px;
+  color: #ffffff;
+  text-align: center;
+  width: 100%;
+}
