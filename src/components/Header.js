@@ -30,7 +30,7 @@ const NavBar = () => {
           <li className="nav-item dropdown">
             <a
               className="nav-link dropdown-toggle"
-              href="#"
+              href="#jccj"
               id="navbarDropdown"
               role="button"
               data-toggle="dropdown"
@@ -58,7 +58,7 @@ const NavBar = () => {
           <li className="nav-item dropdown">
             <a
               className="nav-link dropdown-toggle"
-              href="#"
+              href="#kacjc"
               id="navbarDropdown"
               role="button"
               data-toggle="dropdown"
