@@ -1,7 +1,6 @@
 body {
   margin: 0;
   background-color: #140f17;
-  /* background-color: whitesmoke; */
   font-family: "Poppins", sans-serif;
   color: white;
   scroll-behavior: smooth;
@@ -9,9 +8,6 @@ body {
 
 .holder {
   background-color: #262e35;
-  /* background-color: whitesmoke; */
-
-  /* border: 1px solid whitesmoke; */
 }
 
 .card-img-top {
